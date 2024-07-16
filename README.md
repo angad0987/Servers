@@ -13,5 +13,5 @@ This project explores different server architectures in Java, including single-t
 To get started, clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/angad0987/Servers.git
+
